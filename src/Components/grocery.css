@@ -1,0 +1,12 @@
+.list-items{
+    width: 20%;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+
+}
+
+.input-list{
+    margin: auto;
+    width: 30%;
+}
